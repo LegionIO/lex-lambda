@@ -5,7 +5,7 @@ RSpec.describe Legion::Extensions::Lambda do
     expect(Legion::Extensions::Lambda::VERSION).not_to be_nil
   end
 
-  it 'version is 0.1.0' do
-    expect(Legion::Extensions::Lambda::VERSION).to eq('0.1.0')
+  it 'version is 0.1.2' do
+    expect(Legion::Extensions::Lambda::VERSION).to eq('0.1.2')
   end
 end
