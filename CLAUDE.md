@@ -10,7 +10,7 @@ Legion Extension that connects LegionIO to AWS Lambda. Provides runners for func
 
 **GitHub**: https://github.com/LegionIO/lex-lambda
 **License**: MIT
-**Version**: 0.1.0
+**Version**: 0.1.2
 
 ## Architecture
 
